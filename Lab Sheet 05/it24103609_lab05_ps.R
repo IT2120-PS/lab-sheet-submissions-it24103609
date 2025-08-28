@@ -1,5 +1,5 @@
 getwd()
-setwd("C:\\Users\\it24100198\\Desktop\\IT24100198_LAB_05_PS")
+setwd("C:\\Users\\it24103609\\Desktop\\IT24100198_LAB_05_PS")
 getwd()
 
 #Que1
@@ -28,6 +28,7 @@ plot(ogive_x, ogive_y, type = "o",
      xlab = "Delivery Time",
      ylab = "Cumulative Frequency",
      col = "red")
+
 
 
 
