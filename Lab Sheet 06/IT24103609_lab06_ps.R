@@ -1,6 +1,6 @@
 
 #Exercise.
-setwd("C:\\Users\\it24100198\\Desktop\\Lab_06")
+setwd("C:\\Users\\it24103609\\Desktop\\Lab_06")
 getwd()
 
 
@@ -22,6 +22,7 @@ pbinom(46,50,0.85,lower.tail = FALSE)
 
 #iii.
 dpois(15,12)
+
 
 
 
